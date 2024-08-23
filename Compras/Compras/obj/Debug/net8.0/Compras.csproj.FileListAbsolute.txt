@@ -1,0 +1,4 @@
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Compras\Compras\obj\Debug\net8.0\Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfoInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfo.cs
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Compras\Compras\obj\Debug\net8.0\Compras.csproj.CoreCompileInputs.cache
