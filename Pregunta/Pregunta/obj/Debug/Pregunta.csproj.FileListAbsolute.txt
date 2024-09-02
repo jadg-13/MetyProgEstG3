@@ -1,0 +1,10 @@
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\bin\Debug\Pregunta.exe.config
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\bin\Debug\Pregunta.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\bin\Debug\Pregunta.pdb
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.csproj.AssemblyReference.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.Form1.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.Properties.Resources.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.csproj.GenerateResource.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.csproj.CoreCompileInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Pregunta\Pregunta\obj\Debug\Pregunta.pdb

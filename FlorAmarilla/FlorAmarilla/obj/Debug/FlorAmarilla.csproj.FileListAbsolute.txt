@@ -1,0 +1,10 @@
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\bin\Debug\FlorAmarilla.exe.config
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\bin\Debug\FlorAmarilla.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\bin\Debug\FlorAmarilla.pdb
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.csproj.AssemblyReference.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.Form1.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.Properties.Resources.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.csproj.GenerateResource.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.csproj.CoreCompileInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\FlorAmarilla\FlorAmarilla\obj\Debug\FlorAmarilla.pdb

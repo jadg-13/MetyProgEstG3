@@ -1,0 +1,15 @@
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\bin\Debug\net8.0\UseIf.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\bin\Debug\net8.0\UseIf.deps.json
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\bin\Debug\net8.0\UseIf.runtimeconfig.json
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\bin\Debug\net8.0\UseIf.dll
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\bin\Debug\net8.0\UseIf.pdb
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfoInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfo.cs
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.csproj.CoreCompileInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.sourcelink.json
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.dll
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\refint\UseIf.dll
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.pdb
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\UseIf.genruntimeconfig.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\UseIf\UseIf\obj\Debug\net8.0\ref\UseIf.dll
