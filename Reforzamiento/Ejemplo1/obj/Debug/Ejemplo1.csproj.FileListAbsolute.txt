@@ -1,0 +1,10 @@
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\jadg1\OneDrive\Documentos\UAM\S2-2024\MetyProgEst\Ejemplos\G3\Reforzamiento\Ejemplo1\obj\Debug\Ejemplo1.pdb
